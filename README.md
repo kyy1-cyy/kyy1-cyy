@@ -1,6 +1,6 @@
 # Hi, I'm katz 👋
 
-I’m a developer focused on creating standalone tools for the VR community. I like building things that make tech more accessible—like removing the need for a PC when managing your headset.
+I’m a developer focused on creating standalone tools for the VR community. I like building things that make tech more accessible.
 
 ### 📬 Contact Me
 Feel free to reach out if you want to collaborate on VR tools or just talk code!
