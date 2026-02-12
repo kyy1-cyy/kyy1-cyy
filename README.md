@@ -5,7 +5,6 @@ I’m a developer focused on creating standalone tools for the VR community. I l
 ### 📬 Contact Me
 Feel free to reach out if you want to collaborate on VR tools or just talk code!
 
-* **Discord:** `jj_j10`
 * **Email:** [jepjohn53@gmail.com]
 
 ### 🛠️ What I'm working on
