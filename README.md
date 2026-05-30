@@ -1,4 +1,4 @@
-# Hi, I'm katz 👋
+# Hi, I'm Jj-Jj 👋
 
 I’m a developer focused on creating standalone tools for the VR community. I like building things that make tech more accessible.
 
