@@ -8,7 +8,7 @@ Feel free to reach out if you want to collaborate on VR tools or just talk code!
 * **Email:** [jepjohn53@gmail.com]
 
 ### 🛠️ What I'm working on
-- **[AniliaTv](https://github.com/kyy1-cyy/Anilia-)**: A native Android tv app to watch and stream anime with no ads
+- **[LumenTv](https://getlumen.cloud)**: A native Android tv app to watch and stream anime with no ads
 ### 📚 Learning Journey
 - **Current Focus:** Improving my **Java** skills. 
 - I'm still figuring things out, but I'm building real-world tools while I learn.
