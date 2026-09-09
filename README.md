@@ -1,6 +1,6 @@
 # Hi, I'm Jj-Jj 👋
 
-I’m a developer focused on creating standalone tools for the VR community. I like building things that make tech more accessible.
+I’m a developer focused on creating tools for the piracy community. I like building things that make tech more accessible.
 
 ### 📬 Contact Me
 Feel free to reach out if you want to collaborate on VR tools or just talk code!
